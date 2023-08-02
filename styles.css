@@ -3,9 +3,17 @@ body {
 }
 
 .image{
+
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
+    width: 1000px;
+}
+.centered-container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .link-button {
