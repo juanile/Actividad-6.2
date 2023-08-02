@@ -3,13 +3,17 @@ body {
 }
 
 .image{
+
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
+    width: 1000px;
 }
-h1{
-    text-align: center;    
-    margin: auto;   
+.imagenesCentradas {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .link-button {
@@ -20,41 +24,4 @@ h1{
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
-<<<<<<< Updated upstream
-=======
->>>>>>> b4c6fd0e6e55fbbb0a68750d35e6c803d827607b
-    padding-top: 30px;
->>>>>>> 6614c7e211700d7d0231dc28e987c18a2dbdb240
 }
-
-.link-button:hover {
-    background-color: rgb(206, 163, 76);
-    transform: scale(1.2);
-    border: 1px solid black;
-    font-weight: bold;
-<<<<<<< HEAD
-<<<<<<< HEAD
-    margin-top: 50px;
-=======
-=======
-h2 {
-    text-decoration: underline;
->>>>>>> Emilio
-=======
-=======
->>>>>>> b4c6fd0e6e55fbbb0a68750d35e6c803d827607b
-}
-
-h2 {
-    text-decoration: underline;
-<<<<<<< HEAD
->>>>>>> Stashed changes
->>>>>>> 6614c7e211700d7d0231dc28e987c18a2dbdb240
-}
-=======
-}
->>>>>>> b4c6fd0e6e55fbbb0a68750d35e6c803d827607b
