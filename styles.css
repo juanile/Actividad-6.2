@@ -20,6 +20,7 @@ h1{
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+<<<<<<< Updated upstream
     padding-top: 30px;
 }
 <<<<<<< HEAD
@@ -33,4 +34,10 @@ h1{
 h2 {
     text-decoration: underline;
 >>>>>>> Emilio
+=======
+}
+
+h2{
+    text-decoration: underline;
+>>>>>>> Stashed changes
 }
