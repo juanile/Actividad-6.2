@@ -7,6 +7,10 @@ body {
     border-radius: 10px;
     height: 400px;
 }
+h1{
+    text-align: center;    
+    margin: auto;   
+}
 
 .link-button {
     text-decoration: none;
