@@ -20,46 +20,16 @@ h1{
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
-<<<<<<< Updated upstream
     padding-top: 30px;
 }
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .link-button:hover {
     background-color: rgb(206, 163, 76);
     transform: scale(1.2);
     border: 1px solid black;
     font-weight: bold;
-=======
-h2 {
-    text-decoration: underline;
->>>>>>> Emilio
-=======
 }
 
-h2{
+h2 {
     text-decoration: underline;
->>>>>>> Stashed changes
 }
