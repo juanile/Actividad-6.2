@@ -9,7 +9,7 @@ body {
     height: 400px;
     width: 1000px;
 }
-.centered-container {
+.imagenesCentradas {
     height: 100%;
     display: flex;
     justify-content: center;
