@@ -1,4 +1,5 @@
 
+
 body {
     background-color: rgb(255, 255, 165);
 }
@@ -79,3 +80,50 @@ h2 {
 p {
     margin-bottom: 60px;
 }
+
+body {
+    background-color: rgb(255, 255, 165);
+}
+
+.image{
+
+    border: 5px solid green;
+    border-radius: 10px;
+    height: 400px;
+    width: 1000px;
+}
+.imagenesCentradas {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    text-align: center;    
+    margin: auto;   
+}
+
+.link-button {
+    text-decoration: none;
+    color: black;
+    border: 1px solid gray;
+    background-color: #f2f2f2;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 3px #888888;
+    padding-top: 2px;
+}
+
+.link-button:hover {
+    background-color: rgb(206, 163, 76);
+    transform: scale(1.2);
+    border: 1px solid black;
+    font-weight: bold;
+    margin-top: 50px;
+} 
+
+h2 {
+    text-decoration: underline;
+}
+
