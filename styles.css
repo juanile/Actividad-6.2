@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 body {
     background-color: rgb(255, 255, 165);
 }
@@ -29,7 +29,8 @@ h1{
     transform: scale(1.2);
     border: 1px solid black;
     font-weight: bold;
-=======
+}
+
 body {
     background-color: rgb(255, 255, 165);
 }
@@ -77,5 +78,4 @@ h2 {
 }
 p {
     margin-bottom: 60px;
->>>>>>> Stashed changes
 }
